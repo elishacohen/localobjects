@@ -1,12 +1,13 @@
 ---
-title:  Sujeo
+title: Sujeo
+date: 2020-06-21 09:48:40 Z
+categories:
+- jekyll
+- update
 ktitle: 수저
-date:   2020-06-21 11:48:40 +0200
-categories: jekyll update
-featured image:
+featured image: 
 layout: post
 ---
-
 
 *SUJEO*, a pair of spoon and chopsticks, are the main eating utensils in Korea that reflect its ordinary meals and the dining customs. As an essential instrument for consuming the meals, the style of spoon and chopsticks has been developed over time based on the types of food and the way Koreans eat.[^1]
 
