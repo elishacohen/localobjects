@@ -1,0 +1,28 @@
+---
+title:  E-Tae-Lee Tawol
+ktitle: 이태리 타월
+date:   2020-06-21 11:48:40 +0200
+categories: jekyll update
+featured image:
+layout: post
+---
+
+*E-TAE-LEE TAWOL* is a scrub cloth that is a staple in bathhouses and an everyday household in Korea. The towel is made of pure viscose, a rayon fabric that has different textures for scrubbing and massaging. Ever since the public baths became accessible to average Koreans, the full-body scrub was central to their bathing activity because it was regarded as a way to rejuvenate skin and relax the body.
+
+E-tae-lee Tawol has become an informal symbol of the Korean spas (also known as “Jjimjilbang”) and its unique bathing culture.[^1] For the masseuses and masseurs, who commonly reside in the public baths and saunas, the towel is less mere washcloth but a performance gear. It is an integral piece of equipment for their professional scrubbing,[^2] which is extraordinarily vigorous at the same time elaborate, the towel is what completes the eccentric guise of Korean bath parlors.
+
+Scrubbing and massaging are increasingly regarded as a specialized field due to the growth of the beauty and wellness industry and public demand for skilled bathing treatment and experiences. Once a modest job of the working class, the professional scrubber is now rebranded as a “bathing manager”[^3] with an escalating salary. There are even official schools and vocational courses for training bath experts and technicians, which are a recent phenomenon in Korea. These programs focus on teaching complete body treatment and skincare that includes various exfoliating techniques and specialized massage such as meridian massage.
+
+Rayon fabric was initially imported from Italy in the 1960s, the time the towel was invented in Korea, hence the eponymous name “Italy towel.” The cloth comes in glove-like shape or square form, with an open pocket for sliding a hand just like a mitten. The coarse-grained fabric universally features four stripes across the seams and different colors, which indicate the varying grades of roughness and degrees of strength. For example, the green is the standard grade, pink is the softest and blue is the most abrasive. More than a handful of colors and designs exist with a modern twist, yet, the neon hues are most indicative of its originality as much as their stark presence in the bathroom.
+
+# Where to find them
+[GS SHOP](https://www.gsshop.com/shop/search/main.gs?tq=이태리타올&lseq=399079)  
+[SSG E-TAE-LEE SHOP](http://www.ssg.com/plan/planShop.ssg?dispCmptId=6000279419)  
+[Coupang](https://www.coupang.com/vp/products/69681360?itemId=233326000&vendorItemId=3318733315&q=정준산업요술때밀이장갑&itemsCount=36&searchId=d27040ce3e234b39afb1e588720cf566&rank=16&isAddedCart=)
+
+
+
+# References
+[^1]: &ensp; The New York Times, [A Look at Korea’s Culture From the Bathhouse](https://www.nytimes.com/2014/02/09/travel/a-look-at-koreas-culture-from-the-bathhouse.html) (2008)
+[^2]: &ensp; The Asia Business Daily, [Wondrous World of Professional Scrubbing](https://www.asiae.co.kr/article/2019032119010449140) (2019)
+[^3]: &ensp; Hankook Ilbo, [The Evolution of the Bathing Managers](https://www.hankookilbo.com/News/Read/201802101873970221) (2018)
