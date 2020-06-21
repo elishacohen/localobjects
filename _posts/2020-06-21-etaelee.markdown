@@ -1,11 +1,11 @@
 ---
 title: E-Tae-Lee Tawol
-date: 2020-06-21 09:48:40 Z
+date: 2020-06-21 09:48:00 Z
 categories:
 - jekyll
 - update
 ktitle: 이태리 타월
-featured image: 
+featured image: "/uploads/index_etaelee.png"
 layout: post
 ---
 
