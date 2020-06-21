@@ -5,7 +5,7 @@ categories:
 - jekyll
 - update
 ktitle: 이태리 타월
-featured image: "/uploads/index_etaelee.png"
+featured-image: "/uploads/index_etaelee.png"
 layout: post
 ---
 

@@ -4,12 +4,17 @@ layout: default
 ---
 
 <div>
-    <div>
+    <div class="allposts">
         {% for post in site.posts %}
 
-            <a href="{{ post.url }}">
-                <h2>{{ post.title }}</h2>
-                <h2 class="korean">{{ post.ktitle }}</h2>
+            <a class="card" href="{{ post.url }}">
+                <div class="card-description">
+                    <h2 class="title-e">{{ post.title }}</h2>
+                    <h2 class="korean title-k">{{ post.ktitle }}</h2>
+                </div>
+                <div>
+                    <img src="{{ post.featured-image }}">
+                </div>
             </a>
 
         {% endfor %}

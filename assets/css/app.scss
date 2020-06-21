@@ -150,6 +150,62 @@ nav {
 }
 
 
+// OBJECTS.html
+
+.allposts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    z-index: 2;
+    
+    a:hover {
+        color: $black;
+    }
+    
+}
+
+.card {
+    display: block;
+    padding-left: 40px;
+    margin-bottom: 48px;
+    margin-right: 120px;
+    position: relative;
+    min-height: 200px;
+
+    img {
+        width: 80px;
+    }
+
+    .card-description {
+        position: absolute;
+        top: 0;
+        left: 0;
+        transform: rotate(90deg) translateY(-19px);
+        transform-origin: top left;
+        min-width: 200px;
+    }
+
+    .title-k {
+        display: none;
+        width: 19px;
+    }
+    
+    
+}
+
+.card:hover {
+    .title-k {
+        display: block;
+    }
+    .title-e {
+        display: none;
+    }
+    .card-description {
+        transform: none;
+    }
+}
+
+
 // Posts
 
 .vertical {

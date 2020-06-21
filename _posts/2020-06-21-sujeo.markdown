@@ -1,11 +1,11 @@
 ---
 title: Sujeo
-date: 2020-06-21 09:48:00 Z
+date: 2020-06-20 09:48:00 Z
 categories:
 - jekyll
 - update
 ktitle: 수저
-featured image: "/uploads/index_sujeo.png"
+featured-image: "/uploads/index_sujeo.png"
 layout: post
 ---
 
