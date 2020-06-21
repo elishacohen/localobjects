@@ -1,38 +1,37 @@
 ---
 title: Sujeo
-date: 2020-06-21 09:48:40 Z
+date: 2020-06-21 09:48:00 Z
 categories:
 - jekyll
 - update
 ktitle: 수저
-featured image: 
+featured image: "/uploads/index_sujeo.png"
 layout: post
 ---
 
-*SUJEO*, a pair of spoon and chopsticks, are the main eating utensils in Korea that reflect its ordinary meals and the dining customs. As an essential instrument for consuming the meals, the style of spoon and chopsticks has been developed over time based on the types of food and the way Koreans eat.[^1]
+*SUJEO*, a pair of spoon and chopsticks, are the main eating utensils in Korea that reflect its ordinary meals and the dining customs. As an essential instrument for consuming the meals, the style of spoon and chopsticks has been developed over time based on the types of food and the way Koreans eat.\[^1\]
 
-Compared to its Southeast Asian neighbors who share the “chopstick cultural sphere,”[^2] the Korean table always includes a set of both spoon and chopsticks. As the Korean staple consists of cooked rice and soup dishes, they play complementary functions. While spoon carries soup and rice, chopsticks are used for small plates (“Banchan”) served along with rice in Korean cuisine. Chopsticks are particularly fit for grabbing items prepared in slices and also picking apart the chunks of food such as fish or vegetable shoots. Another thing quintessentially Korean[^3] is the use of metal, such as silver, stainless steel, bronze, and even titanium. Koreans prefer metal utensils because they are more durable, easier to clean and sterilize, therefore more hygienic compared to wood or bamboo.
+Compared to its Southeast Asian neighbors who share the “chopstick cultural sphere,”\[^2\] the Korean table always includes a set of both spoon and chopsticks. As the Korean staple consists of cooked rice and soup dishes, they play complementary functions. While spoon carries soup and rice, chopsticks are used for small plates (“Banchan”) served along with rice in Korean cuisine. Chopsticks are particularly fit for grabbing items prepared in slices and also picking apart the chunks of food such as fish or vegetable shoots. Another thing quintessentially Korean\[^3\] is the use of metal, such as silver, stainless steel, bronze, and even titanium. Koreans prefer metal utensils because they are more durable, easier to clean and sterilize, therefore more hygienic compared to wood or bamboo.
 
 With practice and attention, one can acquire an elegant SUJEO manner that conforms to the dining etiquette of Korea. It is one of the first things to be disciplined as a young child, which used to be a conventional sign of proper parenting and a good education. While the complete list of rules is not exactly written in stone, the value of understanding and complying with a few can be more than enough to save face and show politeness in Korean dining. (Perhaps a business or a relationship, to exaggerate.)
-		    
-In fact, the utility of chopsticks was a thing of admiration for those in the West. As observed in his essay, The Empire of Signs (1983), Roland Barthes speculated on the cultural significance of chopsticks by comparing it to the cutlery such as fork and knife and stressed that the food and the utensil were complementary to each other. 
 
-> There is a convergence of the tiny and the esculent: things are not only small in order to be eaten, but are also comestible in order to fulfill their essence, which is smallness. The harmony between Oriental food and chopsticks cannot be merely functional, instrumental; the foodstuffs are cut up so they can be grasped by the sticks, but also the chopsticks exist because the foodstuffs are cut into small pieces; one and the same movement, one and the same form transcends the substance and its utensil: division.[^4]
+In fact, the utility of chopsticks was a thing of admiration for those in the West. As observed in his essay, The Empire of Signs (1983), Roland Barthes speculated on the cultural significance of chopsticks by comparing it to the cutlery such as fork and knife and stressed that the food and the utensil were complementary to each other.
 
-While increasingly ubiquitous eating utensils, the metaphorical meaning of the silver spoons dwells in modern-day Korea. The recent buzzword “Spoon classism” reveals the contour of social stratification in Korea and its widening socioeconomic gap between the wealthy and the rest. As a metaphor for the rich and the poor, the concept of “gold spoon” and the “dirt spoon” describes the persisting social status inheritance predetermined by pre-existing family wealth and establishments of modern Korea. The self-deprecating term resonated with the Korean middle class on their pessimistic view of diminishing social mobility in Korea, especially in the last decade. The degrading concept,[^5] however, is gradually fading away by the youth generation who defies any antiquated classicism or elitism. Much like millennials and post-millennials elsewhere in the world, the next generation of Koreans[^6] is more interested in reinventing their own future with  and individualism, rather than being associated with such labels that predetermine their identity or potential.
+> There is a convergence of the tiny and the esculent: things are not only small in order to be eaten, but are also comestible in order to fulfill their essence, which is smallness. The harmony between Oriental food and chopsticks cannot be merely functional, instrumental; the foodstuffs are cut up so they can be grasped by the sticks, but also the chopsticks exist because the foodstuffs are cut into small pieces; one and the same movement, one and the same form transcends the substance and its utensil: division.\[^4\]
 
+While increasingly ubiquitous eating utensils, the metaphorical meaning of the silver spoons dwells in modern-day Korea. The recent buzzword “Spoon classism” reveals the contour of social stratification in Korea and its widening socioeconomic gap between the wealthy and the rest. As a metaphor for the rich and the poor, the concept of “gold spoon” and the “dirt spoon” describes the persisting social status inheritance predetermined by pre-existing family wealth and establishments of modern Korea. The self-deprecating term resonated with the Korean middle class on their pessimistic view of diminishing social mobility in Korea, especially in the last decade. The degrading concept,\[^5\] however, is gradually fading away by the youth generation who defies any antiquated classicism or elitism. Much like millennials and post-millennials elsewhere in the world, the next generation of Koreans\[^6\] is more interested in reinventing their own future with  and individualism, rather than being associated with such labels that predetermine their identity or potential.
 
 # Where to find them
-[Odense](https://www.odenseofficial.com/dinetteitems/?idx=361)  
-[Seoul Bund](http://shop1.seoulbund2016.cafe24.com/product/%EC%95%84%EB%A6%84%EC%A7%80%EA%B8%B0-%ED%95%9C%EC%8B%9D%EC%88%98%EC%A0%80/865/category/317/display/1/)  
+
+[Odense](https://www.odenseofficial.com/dinetteitems/?idx=361)\
+[Seoul Bund](http://shop1.seoulbund2016.cafe24.com/product/%EC%95%84%EB%A6%84%EC%A7%80%EA%B8%B0-%ED%95%9C%EC%8B%9D%EC%88%98%EC%A0%80/865/category/317/display/1/)\
 [SSG Mall](http://www.ssg.com/item/itemView.ssg?itemId=1000026769538&siteNo=6001&infloSiteNo=6005&salestrNo=2034)
 
-
-
 # References
-[^1]: &ensp; Korean History Society, [The Story of Metal chopsticks](http://www.koreanhistory.org/편견과-진실-쇠젓가락-이야기/?ckattempt=3) (2008)
-[^2]: &ensp; Edward Wang, Chopsticks, Cambridge University Press (2015)
-[^3]: &ensp; Qz.com, [Different types of chopsticks, explained](https://www.youtube.com/watch?v=EpvdetXmRic&feature=youtu.be) (2017)
-[^4]: &ensp; Roland Barthes, Empire of Signs, trans. Richard Howard (New York: Hill and Wang, 1982), 15-18
-[^5]: &ensp; The Economist, [Why it’s cool to be a dirt spoon in Korea](https://www.1843magazine.com/upfront/brave-new-word/why-its-cool-to-be-a-dirt-spoon-in-korea) (2008)
-[^6]: &ensp; Forbes, [BTS Deliver Speech At United Nations Urging Young People To 'Find Your Voice’](https://www.forbes.com/sites/caitlinkelley/2018/09/25/bts-deliver-speech-at-united-nations-urging-young-people-to-find-your-voice/#7218d9167142) (2008)
+
+\[^1\]:   Korean History Society, [The Story of Metal chopsticks](http://www.koreanhistory.org/%ED%8E%B8%EA%B2%AC%EA%B3%BC-%EC%A7%84%EC%8B%A4-%EC%87%A0%EC%A0%93%EA%B0%80%EB%9D%BD-%EC%9D%B4%EC%95%BC%EA%B8%B0/?ckattempt=3) (2008)
+\[^2\]:   Edward Wang, Chopsticks, Cambridge University Press (2015)
+\[^3\]:   Qz.com, [Different types of chopsticks, explained](https://www.youtube.com/watch?v=EpvdetXmRic&feature=youtu.be) (2017)
+\[^4\]:   Roland Barthes, Empire of Signs, trans. Richard Howard (New York: Hill and Wang, 1982), 15-18
+\[^5\]:   The Economist, [Why it’s cool to be a dirt spoon in Korea](https://www.1843magazine.com/upfront/brave-new-word/why-its-cool-to-be-a-dirt-spoon-in-korea) (2008)
+\[^6\]:   Forbes, [BTS Deliver Speech At United Nations Urging Young People To 'Find Your Voice’](https://www.forbes.com/sites/caitlinkelley/2018/09/25/bts-deliver-speech-at-united-nations-urging-young-people-to-find-your-voice/#7218d9167142) (2008)
