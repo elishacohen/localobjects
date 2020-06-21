@@ -1,0 +1,11 @@
+---
+title: Mug
+date: 2020-06-21 17:11:00 Z
+ktitle: something in korean
+featured-image: "/uploads/etaelee06_2400.jpg"
+---
+
+Here some content about a mug[^1]
+
+
+[^1]: NYtimes
