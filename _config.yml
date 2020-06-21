@@ -1,5 +1,5 @@
 ---
-title: Local Objects
+title: Localobjects
 timezone: UTC
 collections:
   posts:
@@ -8,14 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: info@local-objects.com
-description: Local Objects [LO] is a journal featuring ordinary objects made and used
-  in Korea.  LO focuses on objects’ local identity in Korean society through stories
-  of usage, language, history, aesthetics and materiality.
-baseurl: ''
-url: ''
-twitter_username: placeholder
-github_username: ecohen-wmde
-theme: minima
-plugins:
-- jekyll-feed
